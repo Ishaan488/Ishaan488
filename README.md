@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full-Stack Developer | API Engineer | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+beautiful+and+scalable+web+apps+🌐;Lifelong+learner+and+problem+solver+💡;Turning+ideas+into+code+🚀" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" alt="Typing SVG" />
 </p>
 
 ---
@@ -49,14 +49,17 @@
 
 ### 🏗️ Featured Projects  
 
-🎯 **[Project 1 — Your Portfolio Website](#)**  
-_A personal portfolio built using Next.js + Tailwind CSS showcasing projects and blogs._
+🎯 **[LOK App](#lokapp-arcanelogic)**  
+_An AI-powered digital platform connecting citizens and their local government. It features a simple mobile/web app for reporting and a smart 
+web portal that enforces a transparent, time-bound, and accountable resolution process with a powerful Strategic Analytics Dashboard._
 
-🧩 **[Project 2 — RESTful API System](#)**  
-_API-based backend using Node.js, Express.js, MongoDB with JWT authentication and Multer for file uploads._
+🧩 **[Leet-Rev](#leetrev)**  
+_A browser extension to make a short note of code submitted on Leetcode(www.leetcode.com) and saves it with problem title and solution. It is helpful competetive programmers to review their solutions and approaches._
 
-☁️ **[Project 3 — AI Chat Integration](#)**  
-_A web app integrating the Google Gemini API for intelligent chat capabilities._
+☁️ **[PostUp](#https://github.com/Ishaan488/postup)**  
+_Developed a full-stack social web app enabling users to post content(text and images) with authentication, error handling, and RESTful API integration.
+Integrated Cloudinary for secure and scalable image upload and storage.
+Implemented responsive UI for smooth user interaction on both desktop and mobile._
 
 *(Replace links above with your actual project repos when ready.)*
 
@@ -66,13 +69,13 @@ _A web app integrating the Google Gemini API for intelligent chat capabilities._
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ishaan-bajpai-201143289/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://static.vecteezy.com/system/resources/previews/017/339/624/original/linkedin-icon-free-png.png" />
   </a>
   <a href="mailto:ishaanbajpai732004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://png.pngtree.com/png-clipart/20240703/original/pngtree-mail-icon-png-image_15468729.png" />
   </a>
   <a href="https://github.com/Ishaan488" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/7915997/github-icon-md.png" />
   </a>
 </p>
 
