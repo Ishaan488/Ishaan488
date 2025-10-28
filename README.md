@@ -1,7 +1,7 @@
 <!-- 🌌 GitHub Profile README -->
 
 <h1 align="center">Hi, I'm Ishaan Bajpai</h1>
-<h3 align="center">Full-Stack Developer | Tech Explorer</h3>
+<h3 align="center">Full-Stack Developer | API Engineer | Tech Explorer</h3>
 
 ---
 
@@ -88,5 +88,5 @@ A social web app for posting content with authentication, RESTful APIs, and **Cl
 ---
 
 <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Ishaan488&theme=tokyonight&data=followers,repositories,stars,commits" alt="GitHub Widget" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Ishaan488&theme=darkmode&data=followers,repositories,stars,commits" alt="GitHub Widget" />
 </div>
