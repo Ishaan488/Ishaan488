@@ -1,6 +1,7 @@
 <!-- 🌌 GitHub Profile README -->
+
 <h1 align="center">Hi, I'm Ishaan Bajpai</h1>
-<h3 align="center">Full-Stack Developer | API Engineer | Tech Explorer</h3>
+<h3 align="center">Full-Stack Developer | Tech Explorer</h3>
 
 ---
 
@@ -10,7 +11,7 @@
 
 ---
 
-### 🧩 About Me  
+## 🧩 About Me  
 
 I'm a **Full-Stack Developer** passionate about creating efficient, scalable, and user-friendly digital experiences.  
 My focus areas include **Next.js**, **API development**, and **modern web architectures**.
@@ -22,61 +23,55 @@ My focus areas include **Next.js**, **API development**, and **modern web archit
 
 ---
 
-### ⚙️ Tech Stack  
+## ⚙️ Tech Stack  
 
-#### 🖥️ **Languages**
+### 🖥️ Languages  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" />
 </p>
 
-#### 🧰 **Frameworks & Tools**
+### 🧰 Frameworks & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,react,tailwind,mongodb,git,github,powershell," />
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,react,tailwind,mongodb,git,github,powershell" />
 </p>
 
-#### ☁️ **APIs & Services**
+### ☁️ APIs & Services  
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-#### 🧠 **Other Skills**
+### 🧠 Other Skills  
 <p align="left">
   REST API Development • Authentication (JWT) • File Upload (Multer) • Chrome Extensions • Command Line Scripting
 </p>
 
 ---
 
-### 📊 GitHub Analytics  
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ishaan488&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan488&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-
-</p>
-
-
-
-
 ---
 
-### 🏗️ Featured Projects  
+## 🏗️ Featured Projects  
 
-#### 🔹 [LOK App](https://github.com/Ishaan488/lokapp-arcanelogic)  
+### 🔹 [LOK App](https://github.com/Ishaan488/lokapp-arcanelogic)  
 An AI-powered platform bridging citizens and government — offering transparent complaint tracking, a responsive dashboard, and accountability through analytics.
 
-#### 🔹 [Leet-Rev](https://github.com/Ishaan488/leet-rev)  
+### 🔹 [Leet-Rev](https://github.com/Ishaan488/leet-rev)  
 A browser extension to record LeetCode problem notes with titles and solutions for quick review by competitive programmers.
 
-#### 🔹 [PostUp](https://github.com/Ishaan488/postup)  
+### 🔹 [PostUp](https://github.com/Ishaan488/postup)  
 A social web app for posting content with authentication, RESTful APIs, and **Cloudinary** integration for secure image uploads.
 
 ---
 
-### 🌐 Connect With Me  
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/ishaan-bajpai-201143289" target="_blank">
@@ -88,15 +83,6 @@ A social web app for posting content with authentication, RESTful APIs, and **Cl
   <a href="https://github.com/Ishaan488" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="48" />
   </a>
-  <a href="tel:+917376334488" target="_blank">
-    <img src="https://www.svgrepo.com/show/452085/phone.svg" width="48" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ishaan488&label=Profile+Views&color=00F7FF&style=flat-square" alt="profile views"/>
 </p>
 
 ---
