@@ -16,40 +16,40 @@
 I'm a **Full-Stack Developer** passionate about creating efficient, scalable, and user-friendly digital experiences.  
 My focus areas include **Next.js**, **API development**, and **modern web architectures**.
 
-- 🎓 CS Student and tech enthusiast  
-- 💡 Enjoy building **end-to-end web apps** with optimized backends  
-- 🔍 Interested in **automation, cloud deployment, and AI APIs**  
-- 🎯 Always curious about improving user experience through smart design  
+- CS Student and tech enthusiast  
+- Enjoy building **end-to-end web apps** with optimized backends  
+- Interested in **automation, cloud deployment, and AI APIs**  
+- Always curious about improving user experience through smart design  
 
 ---
 
 ## ⚙️ Tech Stack  
 
-### 🖥️ Languages  
+### Languages  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" />
 </p>
 
-### 🧰 Frameworks & Tools  
+### Frameworks & Tools  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,react,tailwind,mongodb,git,github,powershell" />
 </p>
 
-### ☁️ APIs & Services  
+### APIs & Services  
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-### 🧠 Other Skills  
+### Other Skills  
 <p align="left">
   REST API Development • Authentication (JWT) • File Upload (Multer) • Chrome Extensions • Command Line Scripting
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+## GitHub Analytics  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ishaan488&show_icons=true&theme=tokyonight&hide_border=true" />
