@@ -58,19 +58,6 @@ My focus areas include **Next.js**, **API development**, and **modern web archit
 
 ---
 
-## 🏗️ Featured Projects  
-
-### 🔹 [LOK App](https://github.com/Ishaan488/lokapp-arcanelogic)  
-An AI-powered platform bridging citizens and government — offering transparent complaint tracking, a responsive dashboard, and accountability through analytics.
-
-### 🔹 [Leet-Rev](https://github.com/Ishaan488/leet-rev)  
-A browser extension to record LeetCode problem notes with titles and solutions for quick review by competitive programmers.
-
-### 🔹 [PostUp](https://github.com/Ishaan488/postup)  
-A social web app for posting content with authentication, RESTful APIs, and **Cloudinary** integration for secure image uploads.
-
----
-
 ## 🌐 Connect With Me  
 
 <p align="center">
