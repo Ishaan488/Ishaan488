@@ -11,7 +11,7 @@
 
 ---
 
-## 🧩 About Me  
+## &nbsp; About Me
 
 I'm a **Full-Stack Developer** passionate about creating efficient, scalable, and user-friendly digital experiences.  
 My focus areas include **Next.js**, **API development**, and **modern web architectures**.
@@ -27,19 +27,19 @@ My focus areas include **Next.js**, **API development**, and **modern web archit
 
 ### Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css" />
 </p>
 
 ### Frameworks & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,react,tailwind,mongodb,git,github,powershell" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,react,tailwind,mongodb,postgres,git,github,powershell" />
+  <img src="https://i.icoziv.workers.dev/icons?i=puppeteer,cloudinary,figma,postman,thunderclient&theme=dark" />
 </p>
 
 ### APIs & Services  
 <p align="left">
+<img src="https://i.icoziv.workers.dev/icons?i=vercel,render&theme=dark" />
   <img src="https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ### Other Skills  
@@ -49,31 +49,6 @@ My focus areas include **Next.js**, **API development**, and **modern web archit
 
 ---
 
-## GitHub Analytics  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ishaan488&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan488&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/ishaan-bajpai-201143289" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ishaanbajpai732004@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
-  </a>
-  <a href="https://github.com/Ishaan488" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="48" />
-  </a>
-</p>
-
----
-
 <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Ishaan488&theme=darkmode&data=followers,repositories,stars,commits" alt="GitHub Widget" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Ishaan488&theme=darkmode&data=repositories,commits" alt="GitHub Widget" />
 </div>
