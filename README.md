@@ -29,7 +29,7 @@ My focus areas include **Next.js**, **API development**, and **modern web archit
 
 ### Frameworks & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,react,tailwind,mongodb,postgres,git,github,powershell" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,react,tailwind,mongodb,postgres,mysql,git,github,powershell" />
   <img src="https://i.icoziv.workers.dev/icons?i=puppeteer,cloudinary,figma,postman,thunderclient&theme=dark" />
 </p>
 
