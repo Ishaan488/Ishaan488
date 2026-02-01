@@ -1,16 +1,13 @@
 <!-- 🌌 GitHub Profile README -->
 
-<h1 align="center">Hi, I'm Ishaan Bajpai</h1>
-<h3 align="center">Full-Stack Developer | API Engineer | Tech Explorer</h3>
+# Hi, I'm Ishaan
 
----
-
-<div align="center">
+<div align=""><img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" /></div>
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Banner" />
-</div>
+</div> -->
 
----
-
+----
 ## &nbsp; About Me
 
 I'm a **Full-Stack Developer** passionate about creating efficient, scalable, and user-friendly digital experiences.  
