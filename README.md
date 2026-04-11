@@ -1,4 +1,4 @@
-# Hi, I'm Ishaan
+# Hey there,
 
 <table>
 <tr>
@@ -21,23 +21,26 @@ Full-Stack Developer focused on building **scalable web apps and efficient backe
 </tr>
 </table>
 
-### Languages  
+## Tech Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css" />
+  <strong>Languages:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=cpp,rust,java,python,js,ts,html,css" />
 </p>
 
-### Frameworks & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,react,tailwind,mongodb,postgres,git,github" />
+  <strong>Development:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,mongodb,postgres,docker,git,github" />
 </p>
 
-### APIs & Services  
 <p>
-  <img src="https://i.icoziv.workers.dev/icons?i=vercel,render&theme=dark" />
-  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat&logo=google&logoColor=white" />
-</p> 
+  <strong>Tools & Platforms:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=tauri,qt,figma,postman,npm,cmake" />
+    </br> </br>
+  <img src="https://i.icoziv.workers.dev/icons?i=vercel,render,railway&theme=dark" />
+</p>
 
----
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 <div align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Ishaan488&theme=darkmode&data=repositories,commits" />
