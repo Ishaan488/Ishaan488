@@ -30,7 +30,7 @@ Full-Stack Developer focused on building **scalable web apps and efficient backe
 
 <p>
   <strong>Development:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,mongodb,postgres,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,mongodb,mysql,postgres,docker,git,github" />
 </p>
 
 <p>
